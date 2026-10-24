@@ -126,7 +126,7 @@ Ideas, test cases, feedback, and contributions that help answer that question ar
 
 ## License
 
-License to be announced.
+Thanos is licensed under the [MIT License](LICENSE).
 
 ---
 
